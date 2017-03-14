@@ -1,0 +1,26 @@
+
+*** These modified files were found in JOE when it aborted on Fri Mar 10 15:54:02 2017
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+1
+
+*** File '* Build Log *'
+/bin/sh: 1: q: not found
+
+q
+
+dsad
+
+*** File '(Unnamed)'
+:q
+
+*** File '(Unnamed)'
+q
+
+*** File '(Unnamed)'
+/home/sravindr/VGG/.git/MERGE_MSG
+/home/sravindr/musicGen/.git/MERGE_MSG
+/home/sravindr/GenerativeStyleTransfer/.git/MERGE_MSG
+* Build Log *
+/home/sravindr/GenerativeStyleTransfer/.git/MERGE_MSG
