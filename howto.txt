@@ -1,8 +1,0 @@
-ssh -i "ucsd_253.pem" ubuntu@ec2-34-208-52-160.us-west-2.compute.amazonaws.com
-
-ssh -i "ucsd_253.pem" -N -f -L localhost:8824:localhost:8892 ubuntu@ec2-34-208-52-160.us-west-2.compute.amazonaws.com
-
-
-ssh -i "ucsd_253.pem" -N -f -L localhost:8824:localhost:8892 ubuntu@ec2-52-88-188-54.us-west-2.compute.amazonaws.com
-
-ssh -i "ucsd_253.pem" ubuntu@ec2-52-88-188-54.us-west-2.compute.amazonaws.com
